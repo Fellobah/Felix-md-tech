@@ -39,29 +39,61 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 ●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
 
 ●.  ***Click [FORK](https://github.com/yasiyaofc1/FELIX-MD-TECH/fork)***
-## ```SCAN QR CODE```
-
-**[SCAN QR-CODE-SERVER-1](https://Rendor.com/@DarkYasiyaofc/FELIX-MD-V2?v=1)**
-
-
-
-**[SCAN QR CODE-SERVER-2](https://bot_hosting.com/@DarkYasiyaofc/FELIX-MD-V2?v=1)**
-
-  
-
-**[SCAN QR-CODE-SERVER-3](https://Felix-md-qr-bb8466fecf86.herokuapp.com/)**
 
 ---
 ﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## ```HEROKU DEPLOYMENT```
-# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasiyaofc1/FELIX-MD)
+Click the button below to fork the Knight Bot repository to your GitHub account:
 
-﻿<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- ### main site bot hosting
-<a href="https://bot-hosting.net/?aff=1297254811795722383" target="_blank">
-  <img src="https://img.shields.io/badge/Bot%20hosting-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Bot hosting" />
+<div align="center">
+  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
+    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
+  </a>
+</div>
+
+---
+
+### Step 2: Get Pair Code
+
+Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
+
+<div align="center">
+  <a href="https://knight-bot-paircode.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
+  </a>
+</div>
+
+
+### After getting creds.json file, upload it to session folder
+
+---
+
+### Step 3: Deploy Now
+
+For further customization and setup guidance, click the button below:
+
+<div align="center">
+  <a href="https://youtu.be/-oz_u1iMgf8">
+    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="YouTube Link"/>
+  </a>
+  <a href="https://bot-hosting.net/?aff=1068419752923508776">
+    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
+  </a>
+</div>
+
+### Deploy on VPS
+
+<div align="center">
+  <a href="https://client.petrosky.io/aff.php?aff=394" target="_blank">
+    <img src="https://img.shields.io/badge/petrosky vps-0078E7?style=for-the-badge" alt="petrosky vps"/>
+  </a>
+</div>
+
+### Deploy on Below Panel
+<div align="center">
+<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
+  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
 </a>
-
+</div>
 
 ----------
 
