@@ -15,7 +15,16 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
     <img alt="FELIX MD" height="400" src="https://files.catbox.moe/00zj4n.png">
 
     
-## [![Typing SVG](https://readme-typing-svg.bot-hosting.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝑭ELIX+MD_TECH;ᴏᴡɴᴇʀ+ʙʏ+ʏᴀsɪʏᴀ+ᴏғғɪᴄɪᴀʟ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ʏᴀsɪʏᴀ+ᴀɴᴅ+ɪɴᴅᴜᴡᴀʀᴀ;ᴘᴏᴡᴇʀᴅ+ʙʏ:+ᴄʏʙᴇʀ+ᴡᴀʀʀɪᴏʀs+x+ᴛᴇᴀᴍ)](https://git.io/typing-svg)
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/Fellobah/Felix-md-tech?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/Fellobah/Felix-md-tech?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues/Fellobah/Felix-md-tech?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/Fellobah/Felix-md-tech?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20MAINTAINED-brightgreen?style=for-the-badge" />
+
+</div>
+
 
 
 ![forks](https://img.shields.io/github/forks/yasiyaofc1/FORZEN-MD?label=Forks&style=social)
