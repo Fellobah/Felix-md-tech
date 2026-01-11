@@ -27,9 +27,9 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 
 
-![forks](https://img.shields.io/github/forks/yasiyaofc1/FORZEN-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/yasiyaofc1/FELIX-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/yasiyaofc1/FORZEN-MD?style=social)
+![stars](https://img.shields.io/github/stars/yasiyaofc1/FELIX-MD?style=social)
 
 ----------
 <a aria-label="Join our chats" href="https://chat.whatsapp.com/L2i6oDCjljt4mtBTUvTh7t" target="_blank">
@@ -61,16 +61,70 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 </div>
 
 ---
-
-### Step 2: Get Pair Code
-
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
+## 🚀 Felix MD Bot Hosting & Session Dashboard
 
 <div align="center">
-  <a href="https://Felix-bot-paircode.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
-  </a>
+
+<!-- Bot Deployment Animated GIF -->
+<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="400" alt="Deploy Bot Animation" />
+
+---
+
+### 🎯 Quick Actions
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+<!-- Get Session ID Button -->
+<a href="https://Felix-bot-paircode.onrender.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/GET%20SESSION-ID-Easy%20Method-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Session ID" />
+</a>
+
+<!-- Scan QR / Pairing Code Button -->
+<a href="https://Felix-bot-paircode.onrender.com" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/SCAN%20QR%20CODE-Pairing%20Mode-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Scan QR" />
+</a>
+
+<!-- Download Bot Files Button -->
+<a href="https://github.com/Fellobah/Felix-md-tech/archive/refs/heads/main.zip" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/DOWNLOAD-Bot%20Files-orange?style=for-the-badge&logo=github&logoColor=white" alt="Download Bot Files" />
+</a>
+
+<!-- Official Deployment Badge -->
+<a href="https://bot-hosting.net/?aff=1068419752923508776" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Official-Deployment-purple?style=for-the-badge&logo=render&logoColor=white" alt="Official Deployment" />
+</a>
+
 </div>
+
+---
+
+### 🛡️ Security & Trust
+
+<div align="center">
+<img src="https://img.shields.io/badge/Secure-Bot-4CAF50?style=for-the-badge&logo=shield&logoColor=white" alt="Security Badge" />
+<img src="https://img.shields.io/badge/Trusted-Bot-2196F3?style=for-the-badge&logo=verified&logoColor=white" alt="Trusted Badge" />
+<img src="https://img.shields.io/badge/Maintained-Yes-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="Maintained Badge" />
+</div>
+
+---
+
+### 📊 Bot Stats & Contributors
+
+<div align="center">
+<img src="https://img.shields.io/github/stars/Fellobah/Felix-md-tech?style=social" alt="Stars Badge" />
+<img src="https://img.shields.io/github/forks/Fellobah/Felix-md-tech?style=social" alt="Forks Badge" />
+<img src="https://img.shields.io/github/contributors/Fellobah/Felix-md-tech?style=social" alt="Contributors Badge" />
+</div>
+
+---
+
+<div align="center">
+> Click **GET SESSION ID** first → then **SCAN QR** → finally **DOWNLOAD BOT FILES** to deploy your bot.
+</div>
+
+</div>
+
+
 
 
 ### After getting creds.json file, upload it to session folder
