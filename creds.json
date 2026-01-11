@@ -1,0 +1,10 @@
+[Node.js Bot] 
+      |
+      v
+[Generate QR] ----scan---> [WhatsApp Mobile]
+      |
+      v
+[Save creds.json in session/]
+      |
+      v
+[Auto reconnect next time]
