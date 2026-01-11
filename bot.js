@@ -1,30 +1,21 @@
-const { Client, LocalAuth } = require('whatsapp-web.js');
-const qrcode = require('qrcode-terminal');
+import 'dotenv/config';  // loads environment variables from .env
+import { createBot } from 'whatsapp-cloud-api';
 
-// Initialize client with LocalAuth
-const client = new Client({
-    authStrategy: new LocalAuth() // Automatically handles session
-});
+// Get credentials from .env
+const from = process.env.WHATSAPP_PHONE_NUMBER_ID;
+const token = process.env.WHATSAPP_ACCESS_TOKEN;
 
-// Listen for QR code
-client.on('qr', (qr) => {
-    console.log('Scan this QR code with your WhatsApp app:');
-    qrcode.generate(qr, { small: true }); // Display QR code in terminal
-});
+// Create bot instance
+const bot = createBot(from, token);
 
-// When client is ready
-client.on('ready', () => {
-    console.log('WhatsApp bot is ready!');
-});
-
-// Optional: Listen to incoming messages
-client.on('message', message => {
-    console.log(`Message from ${message.from}: ${message.body}`);
-    // Example: auto-reply
-    if(message.body.toLowerCase() === 'hi') {
-        message.reply('Hello! 👋 I am your bot.');
+// Send a test message
+async function sendTestMessage() {
+    try {
+        const response = await bot.sendText('RECIPIENT_PHONE_NUMBER', 'Hello! This is my WhatsApp bot 🚀');
+        console.log('Message sent:', response);
+    } catch (err) {
+        console.error('Error sending message:', err);
     }
-});
+}
 
-// Initialize the client
-client.initialize();
+sendTestMessage();
