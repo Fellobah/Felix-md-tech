@@ -1,17 +1,28 @@
-import makeWASocket from '@adiwajshing/baileys';
+import makeWASocket, { useSingleFileAuthState } from "@adiwajshing/baileys";
+import { writeFileSync } from "fs";
+import qrcode from "qrcode-terminal";
 
-const sock = makeWASocket();
+const { state, saveState } = useSingleFileAuthState('./session/creds.json');
+
+const sock = makeWASocket({
+    auth: state
+});
 
 sock.ev.on('connection.update', (update) => {
-    const { connection, qr } = update;
+    const { connection, lastDisconnect, qr } = update;
+
     if (qr) {
-        console.log('Scan this QR code:');
-        console.log(qr); // You can also generate a QR image using qrcode npm package
+        qrcode.generate(qr, { small: true });
+        console.log("Scan this QR code with WhatsApp to log in.");
     }
+
     if (connection === 'close') {
-        console.log('Connection closed, restarting...');
+        console.log('Connection closed:', lastDisconnect?.error?.output?.statusCode);
     }
+
     if (connection === 'open') {
-        console.log('Bot connected!');
+        console.log('Bot connected successfully!');
     }
 });
+
+sock.ev.on('creds.update', saveState);
