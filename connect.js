@@ -1,4 +1,4 @@
-import makeWASocket, { useSingleFileAuthState } from "@adiwajshing/baileys";
+import makeWASocket, { useSingleFileAuthState } from "@whiskeysockets/baileys";
 import { writeFileSync } from "fs";
 import qrcode from "qrcode-terminal";
 
