@@ -2,6 +2,7 @@
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
+
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Felix-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Wonderingjew" alt="Typing SVG" />
@@ -69,26 +70,16 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 
 ### Step 3: Deploy Now
 
-For further customization and setup guidance, click the button below:
-
-  <a href="https://bot-hosting.net/?aff=1068419752923508776">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
-  </a>
-</div>
-
-### Deploy on VPS
-
 <div align="center">
-  <a href="https://client.petrosky.io/aff.php?aff=394" target="_blank">
-    <img src="https://img.shields.io/badge/petrosky vps-0078E7?style=for-the-badge" alt="petrosky vps"/>
-  </a>
-</div>
 
-### Deploy on Below Panel
-<div align="center">
-<a href="https://dashboard.katabump.com/auth/login#d6b7d6" target="_blank">
-  <img src="https://img.shields.io/badge/Katabump-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Katabump"/>
+<a href="https://bot-hosting.net/?aff=1068419752923508776">
+  <img src="https://img.shields.io/badge/OFFICIAL%20DEPLOYMENT-BOT%20HOSTING-5865F2?style=for-the-badge&logo=server&logoColor=white" />
 </a>
+
+<a href="https://client.petrosky.io/aff.php?aff=394">
+  <img src="https://img.shields.io/badge/OFFICIAL%20VPS-PETROSKY-0078E7?style=for-the-badge&logo=linux&logoColor=white" />
+</a>
+
 </div>
 
 ----------
