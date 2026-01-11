@@ -1,0 +1,8 @@
+const SESSION_FILE_PATH = './session.json';
+let sessionData;
+if(fs.existsSync(SESSION_FILE_PATH)) {
+    sessionData = require(SESSION_FILE_PATH);
+}
+
+// Initialize client
+const client = new Client({ session: sessionData });
