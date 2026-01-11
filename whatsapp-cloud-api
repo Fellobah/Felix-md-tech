@@ -1,0 +1,9 @@
+import { createBot } from 'whatsapp-cloud-api';
+
+const from = process.env.WHATSAPP_PHONE_NUMBER_ID;
+const token = process.env.WHATSAPP_ACCESS_TOKEN;
+
+const bot = createBot(from, token);
+
+// Send a message
+await bot.sendText('RECIPIENT_PHONE_NUMBER', 'Hello from my bot!');
