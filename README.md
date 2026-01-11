@@ -134,6 +134,57 @@ Co-Developer & Maintainer
 </div>
 
 ---
+---
+
+## 👥 Contributors
+
+Felix MD Tech is made possible by the following contributors and maintainers.
+
+<table align="center">
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://telegra.ph/file/896953d764d69c906a4b7.jpg" width="120" style="border-radius:50%" />
+
+### 👑 WARRIOR FELIX  
+<img src="https://img.shields.io/badge/ROLE-Lead%20Developer-blue?style=flat-square" />
+
+Core Architecture  
+Security & Stability  
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://telegra.ph/file/903e16f9effd8de11cc76.jpg" width="120" style="border-radius:50%" />
+
+### ⚔️ MCFELLO  
+<img src="https://img.shields.io/badge/ROLE-Co--Developer-green?style=flat-square" />
+
+Commands & Features  
+Deployment Support  
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/CONTRIBUTE-JOIN%20US-orange?style=for-the-badge" />
+
+Want to contribute?
+
+- Fix bugs  
+- Add features  
+- Improve docs  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+---
 
 <div align="center">
 
