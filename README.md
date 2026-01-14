@@ -51,6 +51,12 @@ This is a WhatsApp designed and coded by Felix Der Krieger  it contains more coo
   <img src="https://img.shields.io/badge/DEPLOY_TO_RAILWAY-yellow?style=for-the-badge&logo=railway" />
 </a>
 <div align="center">
+  
+###🟢 Bot-Hosting
+
+<a href="https://bot-hosting.net/?aff=1068419752923508776">
+  <img src="https://img.shields.io/badge/OFFICIAL%20DEPLOYMENT-BOT%20HOSTING-5865F2?style=for-the-badge&logo=server&logoColor=white" />
+</a>
 
 # 🤖 **FELIX-MD-TECH**
 ### A Powerful WhatsApp Multi-Device Bot Built on Node.js + Baileys
@@ -70,28 +76,6 @@ This is a WhatsApp designed and coded by Felix Der Krieger  it contains more coo
 
 ---
 
-## 🚀 **Deploy Felix-MD-Tech**
-
-### 🟣 Heroku  
-<a href="https://heroku.com/deploy?template=https://github.com/Fellobah/Felix-md-tech">
-  <img src="https://img.shields.io/badge/DEPLOY_TO_HEROKU-purple?style=for-the-badge&logo=heroku" />
-</a>
-
-### 🔵 Render  
-<a href="https://render.com/deploy?repo=https://github.com/Fellobah/Felix-md-tech">
-  <img src="https://img.shields.io/badge/DEPLOY_TO_RENDER-blue?style=for-the-badge&logo=render" />
-</a>
-
-### 🟡 Railway  
-<a href="https://railway.app/template?repo=https://github.com/Fellobah/Felix-md-tech">
-  <img src="https://img.shields.io/badge/DEPLOY_TO_RAILWAY-yellow?style=for-the-badge&logo=railway" />
-</a>
-
-###🟢 Bot-Hosting
-
-<a href="https://bot-hosting.net/?aff=1068419752923508776">
-  <img src="https://img.shields.io/badge/OFFICIAL%20DEPLOYMENT-BOT%20HOSTING-5865F2?style=for-the-badge&logo=server&logoColor=white" />
-</a>
 
 ---
 
