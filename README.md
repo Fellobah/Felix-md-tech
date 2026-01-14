@@ -50,6 +50,51 @@ This is a WhatsApp designed and coded by Felix Der Krieger  it contains more coo
 <a href="https://railway.app/template?repo=https://github.com/yourusername/Felix-md-tech">
   <img src="https://img.shields.io/badge/DEPLOY_TO_RAILWAY-yellow?style=for-the-badge&logo=railway" />
 </a>
+<div align="center">
+
+# 🤖 **FELIX-MD-TECH**
+### A Powerful WhatsApp Multi-Device Bot Built on Node.js + Baileys
+
+![Stars](https://img.shields.io/github/stars/yourusername/Felix-md-tech?style=flat-square)
+![Forks](https://img.shields.io/github/forks/yourusername/Felix-md-tech?style=flat-square)
+![Language](https://img.shields.io/badge/Node.js-18-blue?style=flat-square&logo=node.js)
+![Platform](https://img.shields.io/badge/WhatsApp-MD-green?style=flat-square&logo=whatsapp)
+
+---
+
+## 🔐 **GET WHATSAPP SESSION**
+
+<a href="https://session-generator.tech/felix-md-tech">
+  <img src="https://img.shields.io/badge/GET_SESSION_JSON-felix--md--tech-blue?style=for-the-badge&logo=whatsapp" />
+</a>
+
+---
+
+## 🚀 **Deploy Felix-MD-Tech**
+
+### 🟣 Heroku  
+<a href="https://heroku.com/deploy?template=https://github.com/Fellobah/Felix-md-tech">
+  <img src="https://img.shields.io/badge/DEPLOY_TO_HEROKU-purple?style=for-the-badge&logo=heroku" />
+</a>
+
+### 🔵 Render  
+<a href="https://render.com/deploy?repo=https://github.com/Fellobah/Felix-md-tech">
+  <img src="https://img.shields.io/badge/DEPLOY_TO_RENDER-blue?style=for-the-badge&logo=render" />
+</a>
+
+### 🟡 Railway  
+<a href="https://railway.app/template?repo=https://github.com/Fellobah/Felix-md-tech">
+  <img src="https://img.shields.io/badge/DEPLOY_TO_RAILWAY-yellow?style=for-the-badge&logo=railway" />
+</a>
+
+###🟢 Bot-Hosting
+
+<a href="https://bot-hosting.net/?aff=1068419752923508776">
+  <img src="https://img.shields.io/badge/OFFICIAL%20DEPLOYMENT-BOT%20HOSTING-5865F2?style=for-the-badge&logo=server&logoColor=white" />
+</a>
+
+---
+
 
 ---
 
@@ -71,7 +116,7 @@ This is a WhatsApp designed and coded by Felix Der Krieger  it contains more coo
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/yourusername/Felix-md-tech
+git clone https://github.com/Fellobah/Felix-md-tech
 cd Felix-md-tech
 ```
 
