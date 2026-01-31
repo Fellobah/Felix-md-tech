@@ -181,6 +181,51 @@ This project is licensed under the [MIT License](https://github.com/WonderingJew
   <img src="https://i.imgur.com/KQUJY8x.gif" width="100%" />
 </div>
 
+---
+
+## 📸 How to Link WhatsApp to the Bot
+
+### Step 1: Start the Bot
+Run your bot locally or on your server (Node.js).  
+You should see a **QR code** appear in your terminal like this:
+
+<div align="center">
+  <img src="https://i.imgur.com/4hQ6VZB.png" width="400" alt="QR code in terminal"/>
+</div>
+
+---
+
+### Step 2: Open WhatsApp
+Open WhatsApp on your phone → **Settings → Linked Devices → Link a Device**.  
+
+<div align="center">
+  <img src="https://i.imgur.com/BzGk9dj.png" width="300" alt="WhatsApp Linked Devices"/>
+</div>
+
+---
+
+### Step 3: Scan the QR Code
+Use WhatsApp to **scan the QR code** displayed in your terminal.  
+
+<div align="center">
+  <img src="https://i.imgur.com/WX1rR7x.png" width="300" alt="Scan QR Code"/>
+</div>
+
+---
+
+### Step 4: Connection Successful
+Once scanned, your bot is **linked to WhatsApp**. You can now send commands to it.  
+
+<div align="center">
+  <img src="https://i.imgur.com/1MhfP1J.png" width="400" alt="Bot connected"/>
+</div>
+
+---
+
+💡 **Tip:** Make sure your WhatsApp account is active and connected to the internet. The bot will only work if your session is active.
+
+
+
 
 ## ⚠️ Disclaimer
 
