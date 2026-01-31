@@ -95,22 +95,31 @@ Upload the `creds.json` file to the `session` folder.
 <td align="center">
 <div style="border-radius:15px; overflow:hidden; box-shadow:0px 0px 15px #25D366">
 <img src="https://via.placeholder.com/120" width="120" style="border-radius:50%;"/>
-<br>
-<b>Wondering Jew</b><br>
-[📱 WhatsApp +254725391914](https://wa.me/254725391914)<br>
-[📱 WhatsApp +254701881604](https://wa.me/254701881604)
-</div>
+
 </td>
-<td align="center">
-<div style="border-radius:15px; overflow:hidden; box-shadow:0px 0px 15px #25D366">
-<img src="https://via.placeholder.com/120" width="120" style="border-radius:50%;"/>
-<br>
-<b>McFello</b><br>
-[📱 WhatsApp +254725391914](https://wa.me/254725391914)
 </div>
-</td>
-</tr>
-</table>
+------
+## 👥 Developers
+
+<div align="center">
+
+<div style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://i.imgur.com/your-image1.jpg" width="120" style="border-radius:50%; box-shadow:0px 0px 15px #25D366;"/>
+  <br>
+  **Wondering Jew**  
+  [📱 WhatsApp +254725391914](https://wa.me/254725391914)  
+  [📱 WhatsApp +254701881604](https://wa.me/254701881604)
+</div>
+
+<div style="display:inline-block; text-align:center; margin:10px;">
+  <img src="https://i.imgur.com/your-image2.jpg" width="120" style="border-radius:50%; box-shadow:0px 0px 15px #25D366;"/>
+  <br>
+  **McFello**  
+  [📱 WhatsApp +254725391914](https://wa.me/254725391914)
+</div>
+
+</div>
+
 
 ---
 
