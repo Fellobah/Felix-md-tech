@@ -20,7 +20,7 @@ This is a WhatsApp bot built using the Baileys library for multi-device support,
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/o9p7zK7.gif" width="80%" style="border-radius:5px;"/>
+  <img src="https://media.tenor.com/5BtLQQ3Qj9MAAAAC/rainbow-line.gif" width="80%" />
 </div>
 
 
