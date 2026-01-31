@@ -180,6 +180,39 @@ This project is licensed under the [MIT License](https://github.com/WonderingJew
 <div align="center">
   <img src="https://i.imgur.com/KQUJY8x.gif" width="100%" />
 </div>
+---
+
+<div align="center">
+<p>
+<sub style="background: linear-gradient(90deg, #25D366, #128C7E, #075E54); color:white; padding:3px 10px; border-radius:5px;">
+══════════ ✦ CONTRIBUTORS ✦ ══════════
+</sub>
+</p>
+</div>
+
+<div align="center" style="display:flex; gap:40px; justify-content:center; flex-wrap:wrap;">
+
+<!-- Contributor 1 -->
+<div align="center" style="border-radius:15px; overflow:hidden; box-shadow:0px 0px 15px #25D366; padding:10px;">
+  <img src="https://files.catbox.moe/cs1vep.jpg" width="120" style="border-radius:50%;"/>
+  <br>
+  <b>Mom</b><br>
+  <a href="https://wa.me/254727321580">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
+  </a>
+</div>
+
+<!-- Contributor 2 -->
+<div align="center" style="border-radius:15px; overflow:hidden; box-shadow:0px 0px 15px #25D366; padding:10px;">
+  <img src="https://files.catbox.moe/whtp4v.jpg" width="120" style="border-radius:50%;"/>
+  <br>
+  <b>Contributor 2</b><br>
+  <a href="https://wa.me/254799894659">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="WhatsApp"/>
+  </a>
+</div>
+
+</div>
 
 
 
