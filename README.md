@@ -91,18 +91,19 @@ Upload the `creds.json` file to the `session` folder.
 
 <p align="center">
 
-![Wondering Jew](https://files.catbox.moe/cs1vep.jpg)  
+<img src="https://files.catbox.moe/cs1vep.jpg" width="120" style="border-radius:50%;"/><br>
 **Wondering Jew**  
-[📱 WhatsApp +254725391914](https://wa.me/254725391914)  
-[📱 WhatsApp +254701881604](https://wa.me/254701881604)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/254725391914)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/254701881604)
 
 <br>
 
-![McFello](https://files.catbox.moe/whtp4v.jpg)  
+<img src="https://files.catbox.moe/whtp4v.jpg" width="120" style="border-radius:50%;"/><br>
 **McFello**  
-[📱 WhatsApp +254725391914](https://wa.me/254725391914)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/254725391914)
 
 </p>
+
 
 ---
 
