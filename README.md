@@ -19,7 +19,10 @@ This is a WhatsApp bot built using the Baileys library for multi-device support,
   <img src="https://img.shields.io/github/watchers/WonderingJew/Felix-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 
-<div style="height: 6px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF); border-radius:3px; margin:15px 0;"></div>
+<div align="center">
+  <img src="https://i.imgur.com/o9p7zK7.gif" width="80%" style="border-radius:5px;"/>
+</div>
+
 
 
 ## 🚀 Features
