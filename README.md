@@ -125,6 +125,12 @@ Upload the `creds.json` file to the `session` folder.
   <img src="https://i.imgur.com/KQUJY8x.gif" width="100%" />
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=25D366&center=true&width=600&lines=Thanks+for+the+Bot" alt="Typing SVG"/>
+  </a>
+</div>
+
 
 ## 👥 Developers
 
