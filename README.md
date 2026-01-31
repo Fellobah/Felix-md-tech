@@ -19,7 +19,8 @@ This is a WhatsApp bot built using the Baileys library for multi-device support,
   <img src="https://img.shields.io/github/watchers/WonderingJew/Felix-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 
----
+<div style="height: 6px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF); border-radius:3px; margin:15px 0;"></div>
+
 
 ## 🚀 Features
 
@@ -31,7 +32,7 @@ This is a WhatsApp bot built using the Baileys library for multi-device support,
 - 🎨 **Colorful & animated interface**  
 - 🌐 **Translation, weather, fun tools, and more**
 
----
+<div style="height: 6px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF); border-radius:3px; margin:15px 0;"></div>
 
 ## 🛠️ Steps to Deploy Bot
 
@@ -43,7 +44,8 @@ This is a WhatsApp bot built using the Baileys library for multi-device support,
   </a>
 </div>
 
----
+<div style="height: 6px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF); border-radius:3px; margin:15px 0;"></div>
+ 
 
 ### Step 2: Get Pair Code
 
@@ -57,7 +59,8 @@ Deploy the bot and connect it to your WhatsApp account using a pair code:
 
 Upload the `creds.json` file to the `session` folder.
 
----
+<div style="height: 6px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF); border-radius:3px; margin:15px 0;"></div>
+
 
 ### Step 3: Deploy Now
 
@@ -86,7 +89,8 @@ Upload the `creds.json` file to the `session` folder.
 </a>
 </div>
 
----
+<div style="height: 6px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF); border-radius:3px; margin:15px 0;"></div>
+
 ## 👥 Developers
 
 <p align="center">
@@ -105,7 +109,8 @@ Upload the `creds.json` file to the `session` folder.
 </p>
 
 
----
+<div style="height: 6px; background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF); border-radius:3px; margin:15px 0;"></div>
+
 
 ## 🔐 Security & Tips
 
