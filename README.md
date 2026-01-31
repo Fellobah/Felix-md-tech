@@ -186,11 +186,17 @@ This project is licensed under the [MIT License](https://github.com/WonderingJew
 <div align="center">
   <img src="https://i.imgur.com/KQUJY8x.gif" width="100%" />
 </div>
----
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=25D366&center=true&width=600&lines=Thanks+for+your+Support" alt="Typing SVG"/>
+  </a>
+</div>
+
+<div align="left">
 <p>
-<sub style="background: linear-gradient(90deg, #25D366, #128C7E, #075E54); color:white; padding:3px 10px; border-radius:5px;">
+
+  
 ══════════ ✦ CONTRIBUTORS ✦ ══════════
 </sub>
 </p>
