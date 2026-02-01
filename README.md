@@ -264,5 +264,11 @@ This project is licensed under the [MIT License](https://github.com/WonderingJew
 
 
 ## ⚠️ Disclaimer
+<!-- Disclaimer Message -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=⚠️+Disclaimer;Use+Felix--MD+responsibly;Developers+aren't+liable+for+bans+or+loss&font=JetBrains+Mono&size=24&pause=1200&color=000000&bg=FFE066&center=true&vCenter=true&width=700"
+    alt="Disclaimer"
+  />
+</p>
 
-Unofficial WhatsApp bot 
