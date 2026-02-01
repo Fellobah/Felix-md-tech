@@ -22,15 +22,37 @@ This is a WhatsApp bot built using the Baileys library for multi-device support,
   <img src="https://img.shields.io/github/watchers/Fellobah/Felix-md-tech?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
 
+<!-- Felix-MD Chat Header -->
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="70" />
+</p>
 
+<!-- Incoming Message -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Hello+👋;Welcome+to+Felix--MD&font=JetBrains+Mono&size=26&pause=1200&color=000000&bg=FFE066&center=true&vCenter=true&width=600"
+    alt="Incoming message"
+  />
+</p>
+
+<!-- Typing Indicator -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Felix--MD+is+typing...&font=Fira+Code&size=22&pause=1500&color=555555&bg=EDEDED&center=true&vCenter=true&width=400"
+    alt="Typing"
+  />
+</p>
+
+<!-- Outgoing Message -->
 <p align="center">
   <a href="https://github.com/Fellobah/Felix-md-tech">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Felix--MD;Your+WhatsApp+Multi+Device+Bot;Coded+by+Wondering+Jew&font=Orbitron&size=28&pause=1200&color=000000&bg=FFE066&center=true&vCenter=true&width=720"
-      alt="Welcome to Felix-MD"
+      src="https://readme-typing-svg.demolab.com/?lines=Powerful+WhatsApp+Multi+Device+Bot;Coded+by+Wondering+Jew&font=Orbitron&size=26&pause=1200&color=FFFFFF&bg=25D366&center=true&vCenter=true&width=700"
+      alt="Outgoing message"
     />
   </a>
 </p>
+
 
 
 
