@@ -12,12 +12,20 @@ This is a WhatsApp bot built using the Baileys library for multi-device support,
   <img src="https://files.catbox.moe/cs1vep.jpg" alt="Felix-MD Bot" height="350" style="border-radius:10px;"/>
 </div>
 
+
+
 <div align="center">
   <img src="https://img.shields.io/github/followers/WonderingJew?style=for-the-badge&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/WonderingJew/Felix-MD?style=for-the-badge&label=Stars" alt="Stars"/>
   <img src="https://img.shields.io/github/forks/WonderingJew/Felix-MD?style=for-the-badge&label=Forks" alt="Forks"/>
   <img src="https://img.shields.io/github/watchers/WonderingJew/Felix-MD?style=for-the-badge&label=Watchers" alt="Watchers"/>
 </div>
+
+<p align="center">
+  <a href="https://github.com/Fellobah/Felix-md-tech">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Felix--MD;Powerful+WhatsApp+MD+Bot;Coded+by+Wondering+Jew&font=JetBrains+Mono&size=30&pause=1200&color=1E90FF&center=true&vCenter=true&width=700" />
+  </a>
+</p>
 
 
 
